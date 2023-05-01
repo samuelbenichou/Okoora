@@ -1,0 +1,4 @@
+Name: EUR / USD, Rate: 1.10110, Date: 01/05/2023 16:59:23
+Name: EUR / JPY, Rate: 150.608, Date: 01/05/2023 16:59:23
+Name: GBP / EUR, Rate: 1.13792, Date: 01/05/2023 16:59:23
+Name: USD / ILS, Rate: 3.62838, Date: 01/05/2023 16:59:23
